@@ -8,6 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@intlify/nuxt3": "^0.2.4",
     "@julr/unocss-preset-flowbite": "^0.0.1",
     "@julr/unocss-preset-forms": "^0.0.2",
     "@julr/unocss-preset-heropatterns": "^0.0.2",

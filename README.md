@@ -11,6 +11,12 @@ Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 Clone the project and then ,make sure to install the dependencies:
 
 ```bash
+# clone project
+git clone https://github.com/unknownman/nuxt3-boilerplate.git my-app
+
+# go to project diectory and install required packages
+cd my-app
+
 # yarn
 yarn install
 
